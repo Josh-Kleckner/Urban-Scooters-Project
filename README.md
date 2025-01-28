@@ -3,7 +3,9 @@ Josh Kleckner
 # Urban Scooters Project: Web App, Mobile App, and API Testing
 
 ## Description  
-The final project is a culmination of everything I've learned throughout the QA Engineering program. It focuses on testing the functionality and quality of three major components: a web application, a mobile application, and an API. Each task is designed to test different aspects of software quality assurance, emphasizing practical application of skills in test planning, execution, and reporting.
+This project involved comprehensive quality assurance testing for three core components: a web application, a mobile application, and an API. The goal was to assess functionality, performance, and usability through systematic testing and to ensure that the system met all requirements and specifications.
+
+I designed and executed test cases for each component, focusing on high-priority features and workflows. The project required effective time management, with a primary focus on web application testing, followed by mobile and API testing. A mix of manual and exploratory testing techniques were used to uncover issues beyond documented requirements.
 
 ## Key Focus Areas
 - Designing and executing efficient test cases.  
