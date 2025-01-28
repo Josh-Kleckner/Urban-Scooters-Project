@@ -31,15 +31,43 @@ I designed and executed test cases for each component, focusing on high-priority
 
 1. **Web Application Testing:**  
    - Focused on functionality, layout, and key workflows.  
-   - Used a structured approach to verify that all required features met specifications.  
+   - Used a structured approach to verify that all required features met specifications.
+
+<details>
+  <summary>Expand Web App Testing Tasks</summary>
+  
+   - Study the web app requirements. There are images in the requirements, you can also view the page layouts in Figma.
+   - Design a sufficient number of positive and negative test cases to validate the fields for the "About Customer” form, which is the first stage of the "Place Order" screen. The test cases should be added to your Google Sheets file.
+   - Perform the tests specified in your test cases. The tests should be performed in Google Chrome and Opera (Opera 71 or higher, Chrome 85 or higher, screen resolution: 1280x720). The browser specifications are also listed in the requirements.
+   - Record any bugs you find in Jira.
+  
+</details>
 
 2. **Mobile Application Testing:**  
    - Tested on Android using Android Studio.  
-   - Emphasis on functionality, user interface, and navigation.  
+   - Emphasis on functionality, user interface, and navigation.
+
+ <details>
+  <summary>Expand Mobile App Testing Tasks</summary>
+  
+   - Study the application requirements.
+   - Design test cases for the features highlighted and perform these tests. Write cases for the layout and designs for these features. The designs in Figma are here.
+   - The test cases should contain the results of the tests and links to the Jira bug reports, if any.
+  
+</details>
 
 3. **API Testing:**  
    - Verified endpoints using Postman and browser DevTools.  
-   - Tested request-response cycles for accuracy and reliability.  
+   - Tested request-response cycles for accuracy and reliability.
+
+<details>
+  <summary>Expand API Testing Tasks</summary>
+  
+   - Examine the backend requirements and API documentation. The backend requirements are here.
+   - Design test cases for the Add and Delete courier requirements. They are easy to identify – they’re highlighted yellow in the requirements.
+   - Run your test cases, record the results, and file any bugs in Jira
+  
+</details>
 
 ## Conclusion
 
